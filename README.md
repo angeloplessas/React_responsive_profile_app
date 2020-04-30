@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Figma Design: https://www.figma.com/file/mLJJ4H2mTgOKN1YmGMJ5iR/Test?node-id=0%3A1
+Profile API: https://reqres.in/api/users?page=1, https://reqres.in/api/users?page=2
+Client: Jan Markeijc from Slovenia(2020.4.28 ~ 2020.4.30)
+
+Creator: Angelo Plessas
+
 ## Available Scripts
 
 In the project directory, you can run:
